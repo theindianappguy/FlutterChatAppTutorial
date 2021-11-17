@@ -18,12 +18,14 @@ About Course : We will build Fully Functioning Chat App with Flutter & Firebase 
 Full PlayList : https://www.youtube.com/playlist?list=PLBxWkM8PLHcr2vkdY2n9rIcxjZ9Th3Us7
 
 📕 Things covered in this Series:
-• Firebase Auth :  Sign in, Sign up and Sign out
-• Firebase Firestore : Upload & Retrieve data stored in Cloud Firestore
-• Perform simple and compound queries in Cloud Firestore
-• Building Complexe UI 
-• Shared Preference to keep user logged in, Create chat room ( with username) & Send message ( by username)
-• Using Stream & Stream builder
+- Firebase Auth :  Sign in, Sign up and Sign out
+- Firebase Firestore : Upload & Retrieve data stored in Cloud Firestore
+- Perform simple and compound queries in Cloud Firestore
+- Building Complexe UI 
+- Shared Preference to keep user logged in, Create chat room ( with username) & Send message ( by username)
+- Using Stream & Stream builder
+
+Live at [flutterdevconnect.web.app](https://flutterdevconnect.web.app)
 
 ### Created & Maintained By
 
